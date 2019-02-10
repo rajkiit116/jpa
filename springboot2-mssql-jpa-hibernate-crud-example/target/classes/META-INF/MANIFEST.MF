@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: springboot2-mssql-jpa-hibernate-crud-example
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: DEVIL
+Implementation-Vendor-Id: net.guides.springboot2
+Build-Jdk: 1.8.0_144
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/springboot2-mssql-jpa-hibernate-crud-example
+Created-By: Maven Integration for Eclipse
+
